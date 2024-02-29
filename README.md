@@ -2,7 +2,7 @@
 
 ## APIs
 
-| Methods |	Urls |	Actions |
+| Method |	Url |	Action |
 |--------|------|---------|
 |POST	| /api/auth/signup |	signup new account |
 POST |	/api/auth/signin |	login an account |
